@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Musab\Dropbox\Software Engineering 2313\TimeLogger1\app\build\intermediates\pre-dexed\debug\mysql-connector-java-5.1.30-bin-17c1521504d29266d3389ddeba6809cc26c97da3.jar"
+        jar="C:\Users\Musab\Dropbox\Software Engineering 2313\TimeLogger1\app\libs\mysql-connector-java-5.1.30-bin.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="50aa5073896609b6b8c5e484c7671449daccf94c"/>
+    <item
+        dex="C:\Users\Musab\Dropbox\Software Engineering 2313\TimeLogger1\app\build\intermediates\pre-dexed\debug\classes-c0d46939fea5dc934a4ec8be555272c95fcc13f9.jar"
+        jar="C:\Users\Musab\Dropbox\Software Engineering 2313\TimeLogger1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\Musab\Dropbox\Software Engineering 2313\TimeLogger1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-e311e493b238b75da4095bd5ee7b69d76d73dc42.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
